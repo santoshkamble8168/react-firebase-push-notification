@@ -51,4 +51,4 @@ const firebaseConfig = {
 ```bash
 {vapidKey: 'Your_WEB_PUSH_CERTIFICATE_KEY_PAIR'}
 ```
-Full Article Here: [Push notification in react with firebase](https://geekystack.com/)
+Full Article Here: [Push notification in react with firebase](https://geekystack.com/push-notification-in-react-with-firebase/)
